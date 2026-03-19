@@ -51,6 +51,7 @@ NSL-KDD dataset used for network intrusion detection research.
 
 ## Screenshots
 
+
 **Dashboard Input Screen**  
 ![Dashboard Input](screenshots/dashboard_input.png)
 
@@ -59,6 +60,7 @@ NSL-KDD dataset used for network intrusion detection research.
 
 **Feature Importance**  
 ![Feature Importance](screenshots/feature_importance.png)
+
 
 > ⚠️ Note: You will need to generate these screenshots and save them in a `screenshots/` folder.
 
